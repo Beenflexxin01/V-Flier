@@ -1,0 +1,92 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  font-weight: 500;
+  line-height: 2;
+  font-family: sans-serif;
+  background: linear-gradient(#4590, #0909);
+  background: linear-gradient(rgba(90, 119, 237, 0), #16f5d099);
+  background: linear-gradient(to top right, rgb(8, 49, 214), #8ded8d99);
+  /* background: linear-gradient(to top right, rgb(220, 11, 11), #8ded8d99); */
+  background: linear-gradient(to top right, #02021f, greenyellow);
+  background: linear-gradient(to bottom right, #0c0c6f, #2fff32);
+  background: linear-gradient(to bottom right, #0c0c6f, #14f108);
+}
+
+li {
+  list-style: none;
+}
+
+.container {
+  margin: 0 5rem;
+  padding: 5rem;
+  text-align: center;
+}
+
+.primary-header {
+  font-size: 3rem;
+  color: greenyellow;
+}
+
+.span {
+  color: grey;
+}
+
+.v {
+  font-size: 7rem;
+}
+
+.img {
+  height: 45rem;
+  width: 50%;
+  border-radius: 4rem;
+}
+
+.text-description {
+  font-size: 1.4rem;
+  color: rgb(19, 2, 35);
+  /* font-weight: bold; */
+  margin-left: 2%;
+}
+
+.s-p {
+  font-weight: bold;
+}
+
+.logo {
+  height: 15rem;
+}
+
+.services {
+  color: #eee;
+}
+
+.tet-header {
+  font-size: 1.6rem;
+}
+
+.s-t {
+  font-size: 1.2rem;
+  font-weight: 700;
+}
+
+.en {
+  display: flex;
+  gap: 4rem;
+  color: #555;
+  color: #fff;
+  font-size: 1.4rem;
+  margin: 3rem 18rem;
+  background-color: #000000;
+  background-color: #4e93fb;
+  background-color: #021a3d;
+  padding: 1.5rem;
+}
